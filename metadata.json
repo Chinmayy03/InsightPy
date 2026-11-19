@@ -1,0 +1,6 @@
+{
+  "name": "InsightPy",
+  "description": "InsightPy: An Intelligent Python-Based Data Analysis and Visualization Platform for zero-code exploratory data analysis, correlations, interactive charts, and data cleaning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
